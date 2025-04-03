@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c3ecd8a7-ec6b-491d-a127-fc908bcaa5da",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 805,
+  "height": 802,
+  "platformSettings": {},
+  "subMetas": {
+    "BASO-logo": {
+      "ver": "1.0.6",
+      "uuid": "84d0e701-0fc9-4f19-add4-45996f2a80a4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c3ecd8a7-ec6b-491d-a127-fc908bcaa5da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -2.5,
+      "trimX": 34,
+      "trimY": 33,
+      "width": 438,
+      "height": 438,
+      "rawWidth": 500,
+      "rawHeight": 499,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

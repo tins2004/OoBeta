@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d150a7cb-8298-49bd-a7c4-d8eb92682a38",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1376,
+  "height": 768,
+  "platformSettings": {},
+  "subMetas": {
+    "Leonardo_Phoenix_10_A_pixel_art_scene_of_ancient_Vietnam_inspi_2": {
+      "ver": "1.0.6",
+      "uuid": "85bffd8e-5731-40ac-a287-4ca1bc36d7b0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d150a7cb-8298-49bd-a7c4-d8eb92682a38",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1376,
+      "height": 768,
+      "rawWidth": 1376,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

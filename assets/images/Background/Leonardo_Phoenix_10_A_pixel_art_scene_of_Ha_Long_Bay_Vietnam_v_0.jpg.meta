@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e63485e9-9075-453f-bb59-d3424f78c637",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1376,
+  "height": 768,
+  "platformSettings": {},
+  "subMetas": {
+    "Leonardo_Phoenix_10_A_pixel_art_scene_of_Ha_Long_Bay_Vietnam_v_0": {
+      "ver": "1.0.6",
+      "uuid": "019829dc-6b4c-4249-ad66-9f7cc4ad27df",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e63485e9-9075-453f-bb59-d3424f78c637",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1376,
+      "height": 768,
+      "rawWidth": 1376,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Warlord-Idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "56735005-9e7b-4646-ab21-1e2a9ae8ba25"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "17ae8f75-d133-4e99-b5c8-3b920b04e929"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "31b3d0c0-56aa-46eb-90f3-dbff95a93878"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "5c3a15a2-fb1d-438a-a8a7-2e4b3ee19a6b"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ad14d792-c87c-47ac-b211-3addb803af69"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "319a2cb9-19ae-4e9d-a0b9-7a2de3fd94fc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

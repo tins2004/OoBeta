@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Medusa-Die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a7685650-176f-41bb-933b-b553acd74be6"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "0b8c6411-b26d-4831-8ee2-9d01a767f6b9"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5696de4e-5a7d-4434-a4ec-431a3d1534d6"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "832bd730-51dd-4d93-83c0-a6ef4e727655"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "34837ed3-5c44-4073-bb45-ab2c13fda886"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "06459e47-1cd3-495e-8aab-477b842d0f33"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

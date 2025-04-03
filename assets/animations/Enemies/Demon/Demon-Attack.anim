@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Demon-Attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3dba46c1-63b9-4771-b240-2c7ca66deba9"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "50cb43b5-57fa-41fc-876c-c4c228a82873"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "403f5a2e-3abc-4189-b037-59dc71babeb1"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "1b215bc4-6feb-4064-bae8-96a58b05c837"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 218.734
+        },
+        {
+          "frame": 0.11666666666666667,
+          "value": 138.096
+        },
+        {
+          "frame": 0.35,
+          "value": 138.096
+        },
+        {
+          "frame": 0.36666666666666664,
+          "value": 218.734
+        }
+      ]
+    }
+  },
+  "events": []
+}

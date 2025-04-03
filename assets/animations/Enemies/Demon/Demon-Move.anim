@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Demon-Move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f4512ff9-3d91-4801-8d03-e9a20c0543cb"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "43e6a309-12ad-48d4-aab4-46fe8207c252"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "82d6bdc5-dc4b-47f9-a92a-1f09a9dd76f4"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "258c638c-de8d-4628-945e-679e8e6ee2d6"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "14bec266-ef92-4883-ba29-3dc695399eb3"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "14b54e4a-de9b-4422-96c8-f79d345d791a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Jinn-Idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6c0fdf19-3b76-4a91-af30-a2cdd5a88868"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "fcfe84c8-f71f-49c7-8971-5e67e8b31437"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "34c251f0-2033-403e-a4b4-c832a8198de9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

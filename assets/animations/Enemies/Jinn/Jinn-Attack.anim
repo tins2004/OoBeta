@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Jinn-Attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e9d08f4f-c596-4552-b438-0c0b3f3bb856"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "833a1714-d746-4ea7-ae2d-35e4a0fd331d"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "4e58fbd5-5bae-47d2-b7b9-dae243cf4fa6"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "d67457fb-867c-40a9-af60-04be0679368f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Lizard-Die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "589e1d27-422a-4a22-b3e3-0b7a8e172cfe"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "32ccf029-fea2-40e4-8866-cd84ace1a572"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "658a80ed-739a-4773-af6c-ab10cf3c76ac"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "3eea200b-62b5-4692-8310-27e91aac9111"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "93f04da7-66f5-4d0e-8dde-7c79aa450573"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "57123b51-7855-4f36-87aa-60884ca791a4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

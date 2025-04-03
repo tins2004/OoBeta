@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "blockchain",
+  "id": "800dd655-ab6c-42d8-b9b6-6161774d7c4f",
+  "version": "2.4.10",
+  "isNew": false
+}

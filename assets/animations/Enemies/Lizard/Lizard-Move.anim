@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Lizard-Move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b69db84c-bca4-4910-8dfe-4003e36114d3"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "b3f9598f-8f8b-4873-abd9-9e97e88b9099"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "dc6701f6-0e1d-4ef3-a1f9-93d1123458b9"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "3e6c862f-fdb0-4bdd-9be8-c6817ccf05cb"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "3cd70f7f-652a-4d35-9fd1-1bb2264a2de1"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "34fb4e9d-7c38-4c60-af83-7a363210da97"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

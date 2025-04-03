@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Demon-Die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "08ba8ac4-cbae-45ee-a716-9710c1e8f2f1"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "515439b2-3a66-47bf-bd3f-5d7ee7ae999a"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "11d468da-4a13-4a31-a8b5-0bd967e358be"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "db0c7e2c-d120-41fb-8b6c-d6b54da28a9b"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "557c183e-9697-4260-b944-368c3ba5fd8f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "96b1e932-a8e4-4a88-8ae9-c9ec39e0840b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

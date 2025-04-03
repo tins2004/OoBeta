@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Charactor-Die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "38df66f8-7213-4c45-9202-e2a57ecf1fcf"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "8338e617-c302-45ff-9b4a-e88e9473af1e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e0bdecce-8b77-4679-a107-cbf3c9e6d90b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "c7ecd56d-96cb-4568-a95e-01c8ab379b05"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "245881f5-68fd-4bc9-aa4d-66442f6b4082"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "54ad42b3-6afc-4818-a772-fa7aa8717c26"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

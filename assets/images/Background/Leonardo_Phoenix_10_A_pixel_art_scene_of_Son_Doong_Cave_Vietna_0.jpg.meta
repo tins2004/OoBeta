@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "64cdc4f7-b57c-4db3-ae93-f0260807c7f1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1376,
+  "height": 768,
+  "platformSettings": {},
+  "subMetas": {
+    "Leonardo_Phoenix_10_A_pixel_art_scene_of_Son_Doong_Cave_Vietna_0": {
+      "ver": "1.0.6",
+      "uuid": "bab661d8-95f6-428d-93eb-9724b7d6b36c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "64cdc4f7-b57c-4db3-ae93-f0260807c7f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1376,
+      "height": 768,
+      "rawWidth": 1376,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Jinn-Die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2f8232eb-566a-4845-9804-9f67874aeb3b"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "8ec0887d-8c44-4c88-b0cd-aa9aae3beb99"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f2b2620a-e76d-431d-af36-ab3a71c096ff"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "f2b2620a-e76d-431d-af36-ab3a71c096ff"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "90c0aba0-3f2b-42ea-9095-3b14f0b939c4"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "cf9cc2b4-5a49-42cd-ad3c-daa566b15dd8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
